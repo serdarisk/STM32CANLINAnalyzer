@@ -1,0 +1,13 @@
+../Core/Src/main.c:82:6:HAL_UART_RxHalfCpltCallback	2
+../Core/Src/main.c:93:6:HAL_UART_RxCpltCallback	2
+../Core/Src/main.c:104:6:HAL_UART_ErrorCallback	2
+../Core/Src/main.c:117:6:HAL_CAN_RxFifo0MsgPendingCallback	5
+../Core/Src/main.c:173:6:Send_CAN_Message_From_Buffer	4
+../Core/Src/main.c:212:6:Set_CAN_BaudRate	10
+../Core/Src/main.c:272:5:main	3
+../Core/Src/main.c:336:6:SystemClock_Config	3
+../Core/Src/main.c:371:13:MX_CAN_Init	3
+../Core/Src/main.c:429:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:462:13:MX_DMA_Init	1
+../Core/Src/main.c:480:13:MX_GPIO_Init	1
+../Core/Src/main.c:503:6:Error_Handler	1
